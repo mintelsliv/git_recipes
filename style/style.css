@@ -1,8 +1,16 @@
 * {
-    border: red solid;
     color: gray;
     background-color: black;
 }
 h1 {
+    text-align: center;
+}
+.scrambled-eggs, 
+.pancake,
+.french-toast {
+    text-align: center;
+    margin: 20px;
+}
+.morning {
     text-align: center;
 }
